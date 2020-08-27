@@ -1,1 +1,1 @@
-worker: sh setup.sh && streamlit run searchbot.py
+web: sh setup.sh && streamlit run searchbot.py
